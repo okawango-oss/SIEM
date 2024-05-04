@@ -50,4 +50,8 @@ Wenn Du zum ersten Mal auf das Wazuh-Dashboard zugreifst, zeigt der Browser eine
 
 ![Bildschirmfoto 2024-05-04 um 07 36 41](https://github.com/okawango-oss/SIEM/assets/125760839/2e1f9eb5-a107-4015-92f6-327308bb88e6)
 
+Dokumentation:
+https://documentation.wazuh.com/current/index.html
 
+Blog:
+https://wazuh.com/blog/category/engineering/ 
