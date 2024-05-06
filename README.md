@@ -23,7 +23,7 @@ Die Wazuh Extended Detection and Response (XDR)-Plattform bietet eine umfassende
 ## Installation von Wazuh:
 
 1. Lade den Wazuh-Installationsassistenten herunter und führe ihn aus.
-####   curl -sO https://packages.wazuh.com/4.7/wazuh-install.sh && sudo bash ./wazuh-install.sh -a -I 
+####   curl -sO https://packages.wazuh.com/4.7/wazuh-install.sh && sudo bash ./wazuh-install.sh -a -i
 
 2. Sobald der Assistent die Installation abgeschlossen hat, zeigt die Ausgabe die Zugangsdaten und eine Meldung, die bestätigt, dass die Installation erfolgreich war.
 
